@@ -7,7 +7,7 @@
 
 ## Prévia
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/28576055/75551035-06e7ff00-5a12-11ea-83c7-d0e13602ae6d.gif" width="200" alt="nubank app interation" />
+  <img src="https://user-images.githubusercontent.com/28576055/75551540-32b7b480-5a13-11ea-8b41-5179a8128d33.gif" width="300" alt="nubank app interation" />
 </p>
 
 <!-- GETTING STARTED -->
