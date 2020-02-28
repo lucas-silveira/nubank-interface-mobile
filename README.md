@@ -5,7 +5,7 @@
 *** Obrigado novamente! Agora vamos rodar esse projeto incrível :D
 -->
 
-## Prévia
+## Interface Aplicativo Nubank
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/28576055/75551540-32b7b480-5a13-11ea-8b41-5179a8128d33.gif" width="300" alt="nubank app interation" />
 </p>
